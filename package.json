@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "description": "My portfolio website",
-  "homepage": "https://YashK1299.github.io/portfolio",
+  "homepage": "https://whykothari.com/portfolio",
   "engines": {
     "node": "v17.3.0"
   },
